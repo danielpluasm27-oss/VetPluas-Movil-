@@ -1,4 +1,4 @@
-# 🐾 VetPluas Móvil — Control de Inventario Farmacéutico y Citas
+ VetPluas Móvil — Control de Inventario Farmacéutico y Citas
 
 **Proyecto Áulico de Programación Móvil (DSHI-314)**  
 **Carrera de Desarrollo de Software · Instituto Superior Tecnológico Guayaquil**  
@@ -8,14 +8,14 @@
 
 ---
 
-## 📖 1. Descripción del Proyecto
+ 1. Descripción del Proyecto
 VetPluas Móvil es una aplicación nativa para Android desarrollada en Kotlin que moderniza la gestión operativa de **Veterinaria Pluas**, un centro veterinario y farmacéutico ubicado en la Calle 29 y Callejón Parra (Guayaquil). 
 
 La aplicación resuelve la falta de control de inventario de medicamentos en percha y la descoordinación en la reserva de turnos de peluquería canina, sustituyendo los apuntes manuales en cuaderno por una plataforma móvil intuitiva con interfaces adaptadas para celular y tablet.
 
 ---
 
-## 🎯 2. Objetivos
+ 2. Objetivos
 
 ### Objetivo General
 Desarrollar una aplicación móvil nativa en Android con Kotlin que permita gestionar el inventario de fármacos, el registro de citas veterinarias y la comunicación directa con el cliente en la Veterinaria Pluas, para reducir las pérdidas de productos y mejorar la eficiencia en la atención diaria.
@@ -27,7 +27,7 @@ Desarrollar una aplicación móvil nativa en Android con Kotlin que permita gest
 
 ---
 
-## 👥 3. Integrante y Roles
+ 3. Integrante y Roles
 - **Elias Daniel Pluas Mazzini:**
   - Coordinación y gestión del repositorio.
   - Diseño de interfaces y layouts adaptativos (`XML` / `ConstraintLayout`).
@@ -35,7 +35,7 @@ Desarrollar una aplicación móvil nativa en Android con Kotlin que permita gest
 
 ---
 
-## 🚀 4. Entregables y Estado por Avance
+ 4. Entregables y Estado por Avance
 
 | Avance | Fecha | Estado | Entregable principal |
 | :--- | :---: | :---: | :--- |
@@ -46,7 +46,7 @@ Desarrollar una aplicación móvil nativa en Android con Kotlin que permita gest
 
 ---
 
-## 🛠️ 5. Especificaciones Técnicas
+ 5. Especificaciones Técnicas
 - **Lenguaje:** Kotlin
 - **IDE:** Android Studio Rabbit 2 (2026.2.2)
 - **SDK Mínimo:** Android 8.0 (API 26)
@@ -56,7 +56,7 @@ Desarrollar una aplicación móvil nativa en Android con Kotlin que permita gest
 
 ---
 
-## 🤖 6. Declaración de Autoría y Uso de Inteligencia Artificial
+ 6. Declaración de Autoría y Uso de Inteligencia Artificial
 En cumplimiento con las normas académicas de la asignatura DSHI-314:
 - El código fuente de esta aplicación es de autoría propia de **Elias Daniel Pluas Mazzini**.
 - Se utilizó Inteligencia Artificial (asistente Antigravity / Gemini) de manera declarada exclusivamente como apoyo formativo para el formateo de documentación, refinamiento de redacción de requerimientos y depuración conceptual.
